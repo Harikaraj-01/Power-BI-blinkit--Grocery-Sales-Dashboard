@@ -1,6 +1,8 @@
 
-🚀 Project Overview
+🚀 *Project Overview*
+
 This project showcases a complete business intelligence solution developed using Power BI to analyze a sales dataset from a grocery company, BlinkIT. The primary objective was to leverage Power BI's capabilities to perform a detailed analysis of sales performance, customer ratings, and product dynamics. The final product is an interactive dashboard that allows for easy exploration of key business metrics and trends.
+
 📊 Dataset
 The project utilizes the BlinkIT Grocery Data.xlsx - BlinkIT Grocery Data.csv dataset which includes detailed information on individual sales transactions. Key columns in the dataset include:
 - Item Fat Content
