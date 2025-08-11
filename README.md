@@ -92,5 +92,5 @@ I plan to explore more real-world datasets and build dashboards that combine bus
 
 🙌 Acknowledgment
 
-This project was inspired by a YouTube tutorial[@Data Tutorials] that helped me grasp the basics of Power BI. I added my own analysis and design elements to make it more insightful.
+This project was inspired by a YouTube tutorial[@Data Tutorials] that helped me grasp the basics of Power BI.
 
